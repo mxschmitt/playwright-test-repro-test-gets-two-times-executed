@@ -1,0 +1,10 @@
+{
+  "name": "playwright-test-issue-test-two-times-executed",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.13.0-next-alpha-jul-11-2021"
+  }
+}
